@@ -1,0 +1,18 @@
+{
+  "name": "Viaggio di Halloween & Samhain 2026",
+  "short_name": "Samhain 2026",
+  "description": "Itinerario offline del viaggio in Irlanda e Manchester, 29 ottobre - 4 novembre 2026",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1420",
+  "theme_color": "#0E1420",
+  "lang": "it",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
